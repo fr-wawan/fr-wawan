@@ -1,4 +1,4 @@
-<h1 align="center">HELLO THERE 👋 I'm Hermawan Tan from Indonesia,i do code because i dont have anything better to do.I really enjoy learning a language or a framework like laravel and Vue JS</h1>
+<h1 align="center">HELLO THERE 👋</h1>
 <h3 align="center">I'm still learning</h3>
 
 - 🔭 I’m currently working on [Restaurant Website](https://github.com/fr-wawan/restaurant-projects)
