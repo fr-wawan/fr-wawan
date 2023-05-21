@@ -1,5 +1,5 @@
 <h1 align="center">HELLO THERE 👋</h1>
-<h5 align="center">I'm Hermawan Tan.Student Developer</h3>
+<p align="center">I'm Hermawan Tan.I do code because i dont have anything left better to do</p>
 
 - 🔭 I’m currently working on [Restaurant Website](https://github.com/fr-wawan/restaurant-projects)
 
