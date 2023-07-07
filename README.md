@@ -9,4 +9,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=fr-wawan&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=fr-wawan&label=Profile%20Views&color=0&icon=4&pretty=false)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
